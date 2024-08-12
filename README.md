@@ -5,7 +5,7 @@
 
 - 🤝 I’m an Undergraduate at **SLIIT**
 
-- 📫 How to reach me **migaradenuwan99999999@gmail.com**
+- 📫 How to reach me **migaradenuwan@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
