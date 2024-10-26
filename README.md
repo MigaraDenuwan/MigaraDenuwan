@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Migara Denuwan</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Python**
-
 - 🤝 I’m an Undergraduate at **SLIIT**
 
 - 📫 How to reach me **migaradenuwan@outlook.com**
