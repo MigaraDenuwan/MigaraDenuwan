@@ -113,7 +113,7 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=migaradenuwan&show_icons=true&theme=react&hide_border=true" alt="migaradenuwan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=migaradenuwan&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="migaradenuwan" />
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@
 
 ## ⚡ Recent GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=migaradenuwan&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=migaradenuwan&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
