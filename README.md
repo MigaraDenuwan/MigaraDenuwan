@@ -147,3 +147,8 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="./combined-graph.svg" alt="Combined Activity Graph" />
+</p>
+
