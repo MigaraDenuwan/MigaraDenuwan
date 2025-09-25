@@ -13,7 +13,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jehantokyo/jehantokyo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/migaradenuwan/migaradenuwan/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -147,8 +147,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="./combined-graph.svg" alt="Combined Activity Graph" />
-</p>
-
