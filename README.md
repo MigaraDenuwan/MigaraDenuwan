@@ -11,6 +11,14 @@
 
 ---
 
+###
+
+<img src="https://raw.githubusercontent.com/jehantokyo/jehantokyo/output/snake.svg" alt="Snake animation" />
+
+###
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/migara-denuwan-4127b9287/" target="blank">
