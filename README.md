@@ -152,8 +152,8 @@
 
 <p align="center">
 
-<a href="https://github.com/migaradenuwan/sea-turtle-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=migaradenuwan&repo=sea-turtle-ai&theme=react&hide_border=true" />
+<a href="https://franklin-frontend.onrender.com">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=migaradenuwan&repo=Franklin&theme=react&hide_border=true" />
 </a>
 
 <a href="https://github.com/migaradenuwan/stock-management-system">
