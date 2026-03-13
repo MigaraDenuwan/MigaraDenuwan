@@ -156,8 +156,12 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=migaradenuwan&repo=Franklin&theme=react&hide_border=true" />
 </a>
 
-<a href="https://github.com/migaradenuwan/stock-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=migaradenuwan&repo=stock-management-system&theme=react&hide_border=true" />
+<a href="https://www.trustenergysolutionslanka.com">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=migaradenuwan&repo=Trust-Energy-Solution&theme=react&hide_border=true" />
+</a>
+
+<a href="https://issue-tracker-oo91.onrender.com">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=migaradenuwan&repo=Issue-Tracker&theme=react&hide_border=true" />
 </a>
 
 </p>
