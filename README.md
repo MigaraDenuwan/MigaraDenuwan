@@ -157,7 +157,7 @@
 </a>
 
 <a href="https://www.trustenergysolutionslanka.com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=migaradenuwan&repo=trust-energy-solution&theme=react&hide_border=true&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=migaradenuwan&repo=Trust-Energy-Solution&theme=react&hide_border=true&cache_seconds=0" />
 </a>
 
 <a href="https://issue-tracker-oo91.onrender.com">
