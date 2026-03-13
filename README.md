@@ -157,11 +157,11 @@
 </a>
 
 <a href="https://www.trustenergysolutionslanka.com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=migaradenuwan&repo=trust-energy-solution&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=migaradenuwan&repo=trust-energy-solution&theme=react&hide_border=true&cache_seconds=0" />
 </a>
 
 <a href="https://issue-tracker-oo91.onrender.com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=migaradenuwan&repo=Issue-Tracker&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=migaradenuwan&repo=Issue-Tracker&theme=react&hide_border=true&cache_seconds=0" />
 </a>
 
 </p>
