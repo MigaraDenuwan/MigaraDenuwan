@@ -121,6 +121,65 @@
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
   </a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" alt="expo" width="40" height="40"/>
+</a>
+
+<a href="https://flutter.dev" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+</a>
+
+<a href="https://dart.dev" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+<a href="https://gitlab.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
+</a>
+
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
+</a>
+
+<a href="https://swagger.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
+</a>
+
+<a href="https://www.sonarsource.com/products/sonarcloud/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/sonarcloud-1.svg" width="40"/>
+</a>
+
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</a>
+
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+</a>
+
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+</a>
 </p>
 
 ---
