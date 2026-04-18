@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&lines=Full+Stack+Developer;IoT+Enthusiast;Always+learning+new+tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=radical&lines=Full+Stack+Developer;IoT+Enthusiast;Always+learning+new+tech" />
 </p>
 
 ---
@@ -184,29 +184,28 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=migaradenuwan&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="migaradenuwan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=migaradenuwan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="migaradenuwan" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MigaraDenuwan&theme=radical&hide_border=true" alt="migaradenuwan" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=migaradenuwan&theme=react&hide_border=true" alt="migaradenuwan" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migaradenuwan&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MigaraDenuwan&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigaraDenuwan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=migaradenuwan&theme=onedark&no-frame=true&margin-w=4" alt="Trophies" />
+## 🏆 GitHub Trophies 
+
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=migaradenuwan&theme=onedark&no-frame=true&margin-w=4" alt="Trophies" /> 
 </p>
 
 ---
 
 ## ⚡ Recent GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=migaradenuwan&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MigaraDenuwan&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -216,15 +215,15 @@
 <p align="center">
 
 <a href="https://franklin-frontend.onrender.com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=migaradenuwan&repo=Franklin&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=migaradenuwan&repo=Franklin&theme=radical&hide_border=true" />
 </a>
 
 <a href="https://www.trustenergysolutionslanka.com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=migaradenuwan&repo=Trust-Energy-Solution&theme=react&hide_border=true&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=migaradenuwan&repo=Trust-Energy-Solution&theme=radical&hide_border=true&cache_seconds=0" />
 </a>
 
 <a href="https://issue-tracker-oo91.onrender.com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=migaradenuwan&repo=Issue-Tracker&theme=react&hide_border=true&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=migaradenuwan&repo=Issue-Tracker&theme=radical&hide_border=true&cache_seconds=0" />
 </a>
 
 </p>
