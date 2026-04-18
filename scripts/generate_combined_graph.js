@@ -5,7 +5,7 @@ const fs = require('fs');
 const TOKEN = process.env.GH_PAT || process.env.GH_TOKEN || process.env.GITHUB_TOKEN || null;
 if(!TOKEN) console.warn('Warning: no GH token found in env. You may be rate-limited or private contributions won\'t appear.');
 
-const USERNAMES = (process.env.USERNAMES || 'migaradenuwan,MigaraDenuwan-Tokyo')
+const USERNAMES = (process.env.USERNAMES || 'MigaraDenuwan,MigaraDenuwan-Tokyo')
   .split(',').map(s=>s.trim()).filter(Boolean);
 
 const DAYS = Number(process.env.DAYS || 365);
